@@ -21,6 +21,6 @@ address a{
 .banner a{
     background-color: #2F303A;
 }
-.footer>a{
-    color: #FFFFFF60;
+footer>a{
+    color: #FFFFFF;
 }
