@@ -12,9 +12,12 @@ header a{
    background-color:#2196F3;
    color: #ffffff;
 }
-/.logoweb{
+.logoweb{
     color: #2196F3;
 }
 address a{
     color: #FFFFFF60%;
+}
+.banner a{
+    background-color: #2F303A;
 }
